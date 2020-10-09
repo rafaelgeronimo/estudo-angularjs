@@ -1,8 +1,8 @@
 
 # AngularJS
 
-Curso de AngularJS - por Rodrigo Branas
-https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb
+[Curso de AngularJS - por Rodrigo Branas]
+(https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb)
 
 Estudando o antigo AngularJS para possível utilização em sistema legado.
 
@@ -19,5 +19,3 @@ Estudando o antigo AngularJS para possível utilização em sistema legado.
 - [ ] Single-Page Application com ngRoute
 - [ ] Interceptors
 - [ ] Aumentando a performance
-
-* [ ]
