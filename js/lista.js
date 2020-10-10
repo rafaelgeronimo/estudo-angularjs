@@ -2,9 +2,9 @@ angular.module("listaTelefonica", []);
 angular.module("listaTelefonica").controller("listaTelefonicaCtrl", function ($scope) {
   $scope.app = "Lista Telefônica";
   $scope.contatos = [
-    {nome: "Pedro", telefone: "99998888"},
-    {nome: "Ana", telefone: "99998877"},
-    {nome: "Maria", telefone: "99998866"},
+    {nome: "Pedro", telefone: "99998888", cor: "red"},
+    {nome: "Ana", telefone: "99998877", cor: "yellow"},
+    {nome: "Maria", telefone: "99998866", cor: "green"},
   ];
   $scope.operadoras = [
     {nome: "Oi", codigo: 14, categoria: "Celular"},
